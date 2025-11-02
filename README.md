@@ -129,8 +129,8 @@ The release name (e.g., something like “Game of Thrones S01E01 German EAC3 DL 
 
 At the very end, after the hyphen, you will always see the release group, i.e., the group that actually ripped the movie or episode from a BluRay or downloaded it from a streaming service. This may be interesting for some, but you can ignore it for now.
 
-| Term            | Explanation                                                                                                                                                                                                                        |
-|--------------------|------------------------------------------------------------- ---------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------- -|
+| Term            | Explanation |
+|--------------------|-------------------------------------------------------------|
 | x264, h264         | Codec for video compression. It creates files that are larger than x265, but offers better compatibility with older devices. Recommended for 720p and 1080p and high quality requirements. |
 | x265, h265, HEVC   | High Efficiency Video Coding (HEVC), often referred to as h.265 or x265, is a more modern codec that compresses videos to about half the file size of h.264, but with the same quality. Ideal for 4K videos or when storage space is limited.    |
 | 720p, 1080p, 2160p | Quality of the release. 720p = HD, 1080p = Full HD, 2160p = 4K Ultra HD.                                                                                                                                                                                 |
