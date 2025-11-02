@@ -62,8 +62,8 @@ For occasional users, indexers can often be used completely free of charge. Howe
 
 Here is my indexer recommendation with a ranking based on my own experience. SceneNZBs is perfectly adequate to start with. The other indexers have significantly less German content, but sometimes they have older releases that are not (yet) available on SceneNZBs. They also often have English content earlier and in more variants.
 
-| Rank | Indexer       | Free downloads/day | Premium per year       | Registration open | Deletion of free accounts due to inactivity | Further info                                                                           |
-|------|---------------|--------------------------|------------------------|----------------------- -|--------------------------------------------------|----------------------------------------------- --------------------------------------|
+| Rank | Indexer       | Free downloads/day       | Premium per year       | Registration open      |      Deletion of free accounts due to inactivity | Further info|
+|------|---------------|--------------------------|------------------------|------------------------|--------------------------------------------------|--------------|
 | 1.   | SceneNZBs | 5                            | 15 (10€ from the third year onwards) | Permanent              | 1 year                                            | Indispensable for German content – this indexer specializes in it.                      |
 | 2.   | NewzBay | 30-day trial period, then 0   | 10€                    | Closed (user invites possible)       | 180 days | A new, modern indexer specializing in German content. Very good for anime (German dubbing & original with subtitles). Compared to SceneNZBs, however, it still lacks a larger archive of older material – but requests for missing content are fulfilled quickly. The perfect complement to SceneNZBs. |
 | 3.   | NZBFinder     | 3                        | $15-45                 | Permanent              | ?                                                  | Also a very good indexer with a lot of German content.                    |
