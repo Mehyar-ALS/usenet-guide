@@ -1,5 +1,5 @@
 # Usenet Beginner's Guide
-A German guide to Usenet. If you have any questions, problems, or suggestions for improvement, feel free to create an issue or pull request!
+A guide to Usenet. If you have any questions, problems, or suggestions for improvement, feel free to create an issue or pull request!
 
 ## Status of the guide
 The first part of the guide is complete; all that's missing is automation with Radarr & Sonarr—this will follow in the next few days.
